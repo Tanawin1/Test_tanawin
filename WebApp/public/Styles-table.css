@@ -1,0 +1,33 @@
+table, th,td{
+    border: 1px gray;
+    background-color: orangered;
+    border: solid salmon;
+
+}
+.frame-champoo{
+    align-content: center;
+    background-color: burlywood;
+    border: 1px greenyellow;
+    border-style: groove;
+    margin-top: 80px;
+    margin-left: 520px;
+
+}
+.frame-pantene{
+    align-content: center;
+    background-color: burlywood;
+    border: 1px greenyellow;
+    border-style: groove;
+    margin-top: 80px;
+    margin-left: 520px;
+
+}
+.frame-omo{
+    align-content: center;
+    background-color: burlywood;
+    border: 1px greenyellow;
+    border-style: groove;
+    margin-top: 80px;
+    margin-left: 520px;
+
+}

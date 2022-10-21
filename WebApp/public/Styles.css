@@ -1,0 +1,36 @@
+    html, body {
+    background-color: rgb(182, 182, 182);
+    padding: 0;
+    margin: 0;
+}
+.top-footer{
+    background-color: orangered;
+}
+.menu-item{
+    color: wheat;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.screen{
+    background-color: antiquewhite;
+    padding: 25px;
+    margin: 30px;
+    width: 30%;
+}
+.image{
+    width: 30%;
+    border-style: dashed;
+}
+.button{
+    color: black;
+    background-color: aquamarine;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    text-decoration: none;
+}
+.botton-butter{
+    background-color: orangered;
+    padding: 1px;
+}
